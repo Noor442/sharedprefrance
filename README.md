@@ -1,14 +1,16 @@
-# wordle_clone
 
-This is the code for the tutorial series on Youtube to build a Wordle clone.
+![Screenshot_20221207_112614](https://user-images.githubusercontent.com/114253503/206106309-449f5673-da0e-45f0-949d-e118d8f078b3.png
 
-https://www.youtube.com/watch?v=qcMyKwNgEPg&list=PLRz1ICq5mNx8tYouCq1Qd9bRjnYxoCuWH&index=1
+
+![Screenshot_20221207_112351](https://user-images.githubusercontent.com/114253503/206106461-8568b24a-2bf5-4d06-b528-34b8dc1a772f.png)
+
+
+
+
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
 - [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
